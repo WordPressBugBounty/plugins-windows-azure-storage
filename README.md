@@ -1,0 +1,1 @@
+# plugins-windows-azure-storage
